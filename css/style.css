@@ -1,0 +1,12 @@
+body{ background: black; }
+h2{ color: gold;}
+p { color: #fff;}
+.box{ 
+	border: 2px solid gold; 
+	height: 500px; 
+	width: 800px;
+}
+.box h3{
+ 	color: #fff; 
+	text-align: center;
+}
